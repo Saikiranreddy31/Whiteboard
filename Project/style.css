@@ -1,0 +1,22 @@
+/* body tag */
+body{
+    margin: 0px;
+}
+/* every element in html */
+*{
+    box-sizing: border-box;
+}
+/*16 px - rem*/
+.tool-img{
+    height:4 rem;
+}
+.tool-options{
+    display:flex; 
+    /* most powerful it solves all problems */
+    /* to make vertical to horizontal */
+}
+.toolbar{
+    display:flex;
+    justify-content:center;
+    gap  : 2 rem;
+}
